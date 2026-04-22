@@ -1,1 +1,1 @@
-# Resume_Analyzer
+# Vacancy_Analyzer
